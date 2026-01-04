@@ -2,6 +2,7 @@
 
 A robust **Spring Boot MVC** web application designed to bridge the gap between recruiters and job seekers. This platform features a dual-role system (Recruiter & Job Seeker) with secure authentication, profile management, and an interactive job application workflow.
 
+🔹 Demo: https://youtu.be/vzssp40wKtw
 ---
 
 ## 📊 Database Schema
