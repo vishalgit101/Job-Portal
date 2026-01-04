@@ -1,6 +1,6 @@
 # 🚀 JobPortal - Full Stack Spring Boot MVC Application
 
-A robust, enterprise-grade **Spring Boot MVC** web application designed to bridge the gap between recruiters and job seekers. This platform features a dual-role system (Recruiter & Job Seeker) with secure authentication, profile management, and an interactive job application workflow.
+A robust **Spring Boot MVC** web application designed to bridge the gap between recruiters and job seekers. This platform features a dual-role system (Recruiter & Job Seeker) with secure authentication, profile management, and an interactive job application workflow.
 
 ---
 
